@@ -74,7 +74,7 @@ Extract the dataset before running the notebook.
 
 ---
 
-# Features Implemented
+# Key Features Implemented
 
 ## 1. Team Analysis
 - Team win percentage
@@ -109,9 +109,9 @@ Extract the dataset before running the notebook.
 
 Example:
 ```text id="rd3"
-CSK vs MI
-RCB vs KKR
-GT vs RR
+Chennai Super Kings vs Mumbai Indians
+Royal Challengers Bengaluru vs Kolkata Knight Riders
+Gujarat Titans vs Rajasthan Royals
 ```
 
 ---
@@ -209,7 +209,7 @@ During this project, I learned:
 - how to visualize data for better storytelling,
 - how to extract actionable insights,
 - how to organize code into reusable functions,
-- how to use version control with [GitHub](https://github.com/?utm_source=chatgpt.com),
+- how to use version control with GitHub,
 - and how to present a complete analytics project professionally.
 
 This project significantly improved my confidence in practical **Data Analytics**.
@@ -220,8 +220,8 @@ This project significantly improved my confidence in practical **Data Analytics*
 This project can be enhanced further by adding:
 
 ### Dashboard Development
-- Build interactive dashboard using [Streamlit](https://streamlit.io/?utm_source=chatgpt.com)
-- Build business dashboard in [Power BI](https://www.microsoft.com/power-platform/products/power-bi?utm_source=chatgpt.com)
+- Build interactive dashboard using [Streamlit](https://streamlit.io)
+- Build business dashboard in [Power BI](https://www.microsoft.com/power-platform/products/power-bi)
 
 ---
 
@@ -241,8 +241,8 @@ This project can be enhanced further by adding:
 ---
 
 ### Better Visualization
-- Interactive charts using [Plotly](https://plotly.com/?utm_source=chatgpt.com)
-- Advanced charts using [Seaborn](https://seaborn.pydata.org/?utm_source=chatgpt.com)
+- Interactive charts using [Plotly](https://plotly.com)
+- Advanced charts using [Seaborn](https://seaborn.pydata.org)
 
 ---
 
@@ -260,15 +260,7 @@ That is the core of data analytics.
 
 ---
 
-# Author
-**Tanveer Singh**  
-BCA Student | Data Analytics Learner | Python Enthusiast
-
-GitHub: [TanveerSingh77 GitHub Profile](https://github.com/TanveerSingh77?utm_source=chatgpt.com)
-
----
-
-# Let's Connect 🤝
+# Let's Connect
 I’m always open to learning, collaboration, and discussing data-related projects.
 
 Connect with me on:
