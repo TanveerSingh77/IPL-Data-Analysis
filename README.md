@@ -261,11 +261,10 @@ That is the core of data analytics.
 ---
 
 # Let's Connect
-I’m always open to learning, collaboration, and discussing data-related projects.
 
-Connect with me on:
-- [GitHub](https://github.com/TanveerSingh77?utm_source=chatgpt.com)
-- Add your [LinkedIn profile](https://www.linkedin.com/?utm_source=chatgpt.com) here once ready
+Email: [tanveer.gulati2006@gmail.com](mailto:tanveer.gulati2006@gmail.com)
+
+LinkedIn:  [Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/?utm_source=chatgpt.com)
 
 ---
 
